@@ -11,4 +11,4 @@ with
 
 then run
 
-`pyinstaller --onefile main.py`
+`pyinstaller --onefile bing-picture-getter.py`
